@@ -1,0 +1,7 @@
+print("Welcome to PyMath")
+print()
+print("What can we do for you?")
+print("Play a game [Guess the Number]")
+print("Calculate Values")
+print("Calculate Currency")
+print("Exit [To leave the application]")
